@@ -36,4 +36,17 @@ Developed an interactive Power BI Healthcare Dashboard to analyze patient record
 
 ## Dashboard Preview
 
-![Healthcare Dashboard](page1.png , page2.png , page3.png , page4.png , page5.png)
+### Page 1
+![Page 1](page1.png)
+
+### Page 2
+![Page 2](page2.png)
+
+### Page 3
+![Page 3](page3.png)
+
+### Page 4
+![Page 4](page4.png)
+
+### Page 5
+![Page 5](page5.png)
